@@ -1,0 +1,16 @@
+.gitignore
+.git
+.svn
+.DS_Store
+archive
+Makefile
+Rakefile
+rsync*
+*.lock
+.sass-cache
+wp-config.php
+loo/*
+prototypes/*
+videos/*
+Makefile
+rsync.exclude
