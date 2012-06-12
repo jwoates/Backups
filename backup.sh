@@ -3,6 +3,7 @@
 #
 # backup.sh
 # nightly backup to USB drive
+# testing cloud9IDE editing.
 # 
 ####################################
 SCRIPT=`readlink -f $0`
